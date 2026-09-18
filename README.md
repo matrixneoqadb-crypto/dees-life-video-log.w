@@ -11,7 +11,7 @@
 - [ ] Branch protection cannot be disabled by non-owners
 - [ ] All commits GPG signed
 - [ ] CODEOWNERS file requires @david-anthony-boyle for `/gateway/**` `/q8/**`
-
+ 
 **Blocked By**: None  
 **Blocks**: Issue #4, #6, #11, #12  
 
